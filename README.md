@@ -1,6 +1,6 @@
-# Fantasy Football AI Assistant
+# Fantasy Football AI Analytics Engine
 
-[![CI](https://github.com/mattvanharn/ff_ai_assistant/actions/workflows/ci.yml/badge.svg)](https://github.com/mattvanharn/ff_ai_assistant/actions)
+[![CI](https://github.com/mattvanharn/fantasy-football-ai-analytics-engine/actions/workflows/ci.yml/badge.svg)](https://github.com/mattvanharn/fantasy-football-ai-analytics-engine/actions)
 
 An ML-powered fantasy football assistant that uses a natural language interface over structured historical data, deep learning projections, and analytics to provide draft recommendations, trade analysis, and waiver wire targets.
 
@@ -62,8 +62,8 @@ Answer
 ## Setup
 
 ```bash
-git clone https://github.com/mattvanharn/ff_ai_assistant.git
-cd ff_ai_assistant
+git clone https://github.com/mattvanharn/fantasy-football-ai-analytics-engine.git
+cd fantasy-football-ai-analytics-engine
 
 # Install uv (Arch: sudo pacman -S uv), then install dependencies
 uv sync

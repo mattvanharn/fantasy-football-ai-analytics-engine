@@ -1,3 +1,3 @@
-"""Fantasy Football AI Assistant — ML-powered fantasy football assistant."""
+"""Fantasy Football AI Analytics Engine — ML-powered fantasy football assistant."""
 
 __version__ = "0.2.0"
