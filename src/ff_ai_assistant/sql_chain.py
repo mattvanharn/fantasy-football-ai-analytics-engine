@@ -157,7 +157,7 @@ def ask_sql(question: str) -> str:
 
 
 if __name__ == "__main__":
-    print("FF AI Assistant — Text-to-SQL Mode")
+    print("FF AI Engine — Text-to-SQL Mode")
     print("Ask precise questions about player stats, rankings, comparisons.")
     print("Type 'quit' to exit.\n")
 
